@@ -1,2 +1,2 @@
-project_id = "your-gcp-project-id"
+project_id = "gcp-test-cloudbuild"
 region     = "us-central1"
